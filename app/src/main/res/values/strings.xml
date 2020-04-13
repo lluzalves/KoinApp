@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KoinApp</string>
+    <string name="koin">Dependency Injection With Koin</string>
+</resources>
